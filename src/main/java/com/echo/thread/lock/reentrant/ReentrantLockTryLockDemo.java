@@ -4,10 +4,6 @@ package com.echo.thread.lock.reentrant;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.ReentrantLock;
 
-/**
- *
- */
-
 /****************************************************
  * 创建人：Echo
  * 创建时间: 2025/10/15 22:01
